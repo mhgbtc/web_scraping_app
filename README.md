@@ -13,8 +13,8 @@ Application Streamlit pour scraper et analyser des données d'annonces d'animaux
 
 1. Clone ce repository
 ```bash
-git clone <url-du-repo>
-cd <nom-du-repo>
+git clone https://github.com/mhgbtc/web_scraping_app.git
+cd web_scraping_app
 ```
 
 2. Installe les dépendances
