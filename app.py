@@ -3,7 +3,7 @@ import pandas as pd
 from requests import get
 from bs4 import BeautifulSoup as bs
 import time
-import re
+
 
 # Je configure la page Streamlit
 st.set_page_config(page_title="Application Web Scraping", layout="wide")
